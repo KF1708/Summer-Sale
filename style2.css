@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(231, 231, 230);
+}
+#purchase {
+  font-weight: bold;
+}
+
+#header {
+  background-color: beige;
+  height: 600px;
+  text-align: center;
+}
+
+#sale-fever {
+  font-size: large;
+}
+
+#sell-off {
+  color: rgb(228, 3, 198);
+}
+
+#sell {
+  background-color: rgb(228, 3, 198);
+  color: aliceblue;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#sell-promo {
+  font-size: medium;
+}
+
+#img-summer {
+  width: 450px;
+  height: 400px;
+}
+
+.card {
+  width: 180px;
+  border-radius: 5px;
+  text-align: center;
+  border: 10px;
+}
+
+#img {
+  border-radius: 5px;
+  height: 135px;
+  width: 119px;
+  margin: auto;
+  padding-top: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#productPrice {
+  color: gray;
+}
+
+#coupon-section {
+  width: 300px;
+  border-radius: 8px;
+  padding: 5px;
+  padding-bottom: 10px;
+  height: 100px;
+  margin-top: 80px;
+  background-color: rgb(245, 245, 245);
+}
+
+#btn-Coupon {
+  border: none;
+  background-color: rgb(240, 79, 218);
+  color: rgb(255, 251, 243);
+  padding: 5px;
+  border-radius: 5px;
+  margin: 5px;
+}
+input {
+  border: none;
+  padding: 5px;
+}
+
+#coupon-section-total {
+  border-radius: 8px;
+  padding: 5px;
+  padding-bottom: 10px;
+  height: 80px;
+  margin-top: 80px;
+  background-color: rgb(250, 248, 248);
+  height: auto;
+}
+
+#btn-Purchase {
+  margin-left: 25px;
+  background-color: rgb(240, 79, 218);
+  color: rgb(255, 251, 243);
+  border-radius: 8px;
+  text-align: center;
+  justify-content: center;
+  border: none;
+  padding: 8px 50px;
+  text-align: center;
+}
+
+#cong-img {
+  height: 100px;
+  width: 100px;
+}
+
+#btn-gohome {
+  margin-left: 5px;
+  background-color: rgb(240, 79, 218);
+  color: rgb(255, 251, 243);
+  border-radius: 8px;
+  text-align: center;
+  justify-content: center;
+  border: none;
+  padding: 8px 40px;
+  text-align: center;
+}
+
+#cong-section {
+  /* display: none; */
+  border-radius: 8px;
+  padding: 20px;
+  height: 250px;
+  width: 250px;
+
+  align-items: center;
+  justify-content: center;
+}
+
+.icon-orange {
+  color: orange;
+}
+
+#addedItems {
+  font-weight: bold;
+}

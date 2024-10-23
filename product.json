@@ -1,0 +1,76 @@
+[
+       {
+            
+             "name" : "K. Accessories",
+             "price" : 39.00,
+             "rating" : 3,
+             "img" : "./images/K.assessoris.1.png"
+
+       },
+       
+       {
+            
+            "name" : "K. Accessorie",
+            "price" : 25.00,
+            "rating" : 0,
+            "img" :"./images/K.assessoris.2.png"
+
+      },
+      
+      {
+           
+            "name" : "Home Cooker",
+            "price" : 49.00,
+            "rating" : 4,
+            "img" :"./images/home cooker.png"
+
+
+      },
+      {
+            "name" : "Sports Back Cap",
+            "price" : 19.00,
+            "rating" : 1,
+            "img" :"./images/black_cap.png"
+
+
+      },
+      {
+            "name" : "Full Jersey Set",
+            "price" : 59.00,
+            "rating" : 4,
+            "img" :"./images/Full jersey.png"
+
+
+      },
+      {
+            "name" : "Sports Sneakers",
+            "price" : 169.00,
+            "rating" : 2,
+            "img" :"./images/Sports Sneaker.png"
+
+      },
+      {
+            "name" : "Single Relaax Chair ",
+            "price" : 185.00,
+            "rating" : 4,
+            "img" :"./images/Relax Chair.png"
+
+
+      },
+      {
+            "name" : "Children Play",
+            "price" : 299.00,
+            "rating" : 5,
+            "img" :"./images/Children Play.png"
+
+
+      },
+      {
+            "name" : "Flexible Sofa",
+            "price" : 339.00,
+            "rating" : 5,
+            "img" :"./images/grey_sofa.png"
+
+
+      }
+]
